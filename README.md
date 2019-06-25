@@ -35,19 +35,19 @@ By the end of this, developers should be able to:
 - [DOM Model - 2](lab-digging-dom/DOM-Model-02.svg)
 - [DOM Model - 3](lab-digging-dom/DOM-Model-03.txt)
 
-## Lab: [Change The Logo](changeTheLogo_LAB.md)
-
 ## Lab: [The Dom Detective](theDomDetective_LAB.md)
+
+## Lab: [Change The Logo](changeTheLogo_LAB.md)
 
 ## Lab: Explore and discuss the difference between
 
 - [.innerText()](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/innerText)
 - [.innerHTML()](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML)
-- [.append()](https://developer.mozilla.org/en-US/docs/Web/API/ParentNode/prepend)
+- [.append()](https://developer.mozilla.org/en-US/docs/Web/API/ParentNode/append)
 - [.appendChild()](https://developer.mozilla.org/en-US/docs/Web/API/Node/appendChild)
 - [.prepend()](https://developer.mozilla.org/en-US/docs/Web/API/ParentNode/prepend)
-- [.after()](https://developer.mozilla.org/en-US/docs/Web/API/ParentNode/prepend)
-- [.before()](https://developer.mozilla.org/en-US/docs/Web/API/ParentNode/prepend)
+- [.after()](https://developer.mozilla.org/en-US/docs/Web/API/ChildNode/after)
+- [.before()](https://developer.mozilla.org/en-US/docs/Web/API/ChildNode/before)
 - [.insertAdjacentHTML()](https://developer.mozilla.org/en-US/docs/Web/API/Element/insertAdjacentHTML)
 - [.replaceWith()](https://developer.mozilla.org/en-US/docs/Web/API/ChildNode/replaceWith)
 - [.remove()](https://developer.mozilla.org/en-US/docs/Web/API/ChildNode/remove)
